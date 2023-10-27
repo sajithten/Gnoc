@@ -5,6 +5,10 @@ Agg/dist – OOB switch
 Acc – production switches/uplink production switches
 Ts (terminal server) – console device and the management (mention the port num)
 
-in dist- search for vlan
-show int ethernet1/39-42 status -- int connected status and for VLAN
-show int description |include TOR  -- port channel
+
+
+## To search vlan & connected status of interfaces
+```
+show int ethernet1/39-42 status
+
+```
