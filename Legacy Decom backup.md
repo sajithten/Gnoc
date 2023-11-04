@@ -20,3 +20,4 @@ show lldp neighbors
 show ip bgp sum vrf all
 
 ```
+https://confluence.oci.oraclecorp.com/pages/viewpage.action?spaceKey=NET&title=Decommissioning+a+PreAD+FEX+Rack
