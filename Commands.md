@@ -1,3 +1,11 @@
+## To see device loc
+```
+sh run | i locat
+```
+## To see device serial
+```
+sh inventory
+```
 ## To check for the version 
 ```
 show version
@@ -17,4 +25,8 @@ show ospf neighbor
 ## To check a specific ospf address
 ```
 show ospf neighbor 10.197.192.128 detail
+```
+## To check cluster
+```
+show chassis cluster status
 ```
