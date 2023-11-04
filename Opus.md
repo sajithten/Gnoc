@@ -6,3 +6,8 @@ cd /SYS/fs_cli
 ```
 erase startup-config
 ```
+## To find serial number
+
+```
+show /SYS product_serial_number
+```
